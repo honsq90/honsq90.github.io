@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkshuqian_hon=self.webpackChunkshuqian_hon||[]).push([[691],{7200:function(e,n,t){t.r(n),t.d(n,{Head:function(){return a}});var u=t(7294);n.default=function(){return u.createElement(u.Fragment,null,u.createElement("h1",{className:"text-3xl font-bold text-center"},"Coming soon"))};var a=function(){return u.createElement("title",null,"Home Page")}}}]);
-//# sourceMappingURL=component---src-pages-index-tsx-311333e2fe45223a3943.js.map
